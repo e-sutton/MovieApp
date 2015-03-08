@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="template.xsl" type="text/xsl"?>
+<details xmlns="http://www.StevenSpielberg.com/" 
+         xmlns:det="http://www.StevenSpielberg.com/details"
+         xmlns:xlink="http://www.w3.org/1999/xlink">
+
+    <det:director>Steven Spielberg</det:director>
+    <det:movie id="1">
+        <det:title>Jaws</det:title>
+        <det:year>1975</det:year>
+        <det:wWGross>470653000</det:wWGross>
+        <det:domGross>260000000</det:domGross>
+        <det:forGross>210653000</det:forGross>
+        <det:available>Y</det:available>
+        <det:poster id="1" xlink:href = "/images/jaws_1.jpg"></det:poster>
+        <det:poster id="2" xlink:href = "/images/jaws_2.jpg"></det:poster>
+        <det:poster id="3" xlink:href = "/images/jaws_3.jpg"></det:poster>
+    </det:movie>	
+    <det:movie id="2">
+        <det:title>Close Encounters Of The Third Kind</det:title>
+        <det:year>1977</det:year>
+        <det:wWGross>303788635</det:wWGross>
+        <det:domGross>132088635</det:domGross>
+        <det:forGross>171700000</det:forGross>
+        <det:available>Y</det:available>
+        <det:poster id="1" xlink:href = "/images/CEOTTK_1.jpg"></det:poster>
+        <det:poster id="2" xlink:href = "/images/CEOTTK.jpg"></det:poster>
+        <det:poster id="3" xlink:href = "/images/CEOTTK_3.jpg"></det:poster>
+    </det:movie>		
+    <det:movie id="3">
+        <det:title>Raiders Of The Lost Ark</det:title>
+        <det:year>1981</det:year>
+        <det:wWGross>389925971</det:wWGross>
+        <det:domGross>248159971</det:domGross>
+        <det:forGross>141766000</det:forGross>	
+        <det:available>Y</det:available>			
+    </det:movie>	
+    <det:movie id="4">
+        <det:title>E.T. The Extra-Terrestrial</det:title>
+        <det:year>1982</det:year>
+        <det:wWGross>792910554</det:wWGross>
+        <det:domGross>435110554</det:domGross>
+        <det:forGross>357800000</det:forGross>
+        <det:available>Y</det:available>
+    </det:movie>	
+    <det:movie id="5">
+        <det:title>Indiana Jones and the Temple of Doom</det:title>
+        <det:year>1984</det:year>
+        <det:wWGross>333107271</det:wWGross>
+        <det:domGross>179870271</det:domGross>
+        <det:forGross>153237000</det:forGross>
+        <det:available>Y</det:available>
+    </det:movie>	
+    <det:movie id="6">
+        <det:title>The Color Purple</det:title>
+        <det:year>1985</det:year>
+        <det:wWGross>98467863</det:wWGross>
+        <det:domGross>98467863</det:domGross>
+        <det:forGross>0</det:forGross>
+        <det:available>Y</det:available>
+    </det:movie>	
+    <det:movie id="7">
+        <det:title>Empire of the Sun</det:title>
+        <det:year>1987</det:year>
+        <det:wWGross>22238696</det:wWGross>
+        <det:domGross>22238696</det:domGross>
+        <det:forGross>0</det:forGross>
+        <det:available>Y</det:available>
+    </det:movie>	
+    <det:movie id="8">
+        <det:title>Indiana Jones and the Last Crusade</det:title>
+        <det:year>1989</det:year>	
+        <det:wWGross>474171806</det:wWGross>
+        <det:domGross>197171806</det:domGross>
+        <det:forGross>277000000</det:forGross>
+        <det:available>Y</det:available>
+    </det:movie>	
+    <det:movie id="9">
+        <det:title>Hook</det:title>
+        <det:year>1991</det:year>
+        <det:wWGross>300854823</det:wWGross>
+        <det:domGross>119654823</det:domGross>
+        <det:forGross>181200000</det:forGross>
+        <det:available>Y</det:available>
+    </det:movie>	
+    <det:movie id="10">
+        <det:title>Jurassic Park</det:title>
+        <det:year>1993</det:year>
+        <det:wWGross>1029153882</det:wWGross>
+        <det:domGross>402453882</det:domGross>
+        <det:forGross>626700000</det:forGross>	
+        <det:available>Y</det:available>
+    </det:movie>	
+</details>

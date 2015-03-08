@@ -1,0 +1,115 @@
+<html>
+	<head>
+		<title>Movie App</title>
+	
+		<link type="text/css" rel="stylesheet" href="bootstrap.css"/>
+		<link type="text/css" rel="stylesheet" href="style.css"/>
+		<script src="jquery-2.1.1.min.js"></script>
+		<script src="bootstrap.js"></script>
+		<script src="bootstrap.min.js"></script>
+		<script>
+			$( document ).ready(function() {
+				$( "a" ).click(function(e) {
+					e.preventDefault();
+			
+					var myUrl = "dynamcontent.jsp";
+					$("div#dynamcontent").load(myUrl);                  
+				});                   
+			});
+		</script>
+	</head>
+	<body>
+		<div class="container-fluid">
+			<header>
+				<div class="row-fluid">
+					<div class="span12">
+						<ul class="nav nav-pills">
+							<li class="active"><a/href="index.html"><b>Movies</b></a></li>
+							<li><a/href="register.html"><b>Register</b></a></li>
+							<li><a/href="about.html"><b>About</b></a></li>
+						</ul>
+					</div>
+				</div>	
+			</header>
+			<div class="jumbotron">
+				<div>
+					<div id ="jt1">
+						<img id="jtImg" src="images/steven_spielberg_1.jpg">
+					</div>
+					<div id="jumbotext1">
+						<h1>The Movies Of Steven Spielberg</h1>
+					</div>
+					<div id ="jt2">
+						<img id="jtImg" src="images/steven_spielberg_2.jpg">
+					</div>			
+				</div>
+			</div>
+			
+			<div class="col-md-7">
+				<div class="carousel slide" id="myCarousel">
+				  <div class="carousel-inner">
+					<div class="item active">
+					  <div class="col-md-4"><a href="#"><img src="images/jaws_1.jpg" class="img-responsive"></a></div>
+					</div>
+					<div class="item">
+					  <div class="col-md-4"><a href="#"><img src="images/jaws_2.jpg" class="img-responsive"></a></div>
+					</div>
+					<div class="item">
+					  <div class="col-md-4"><a href="#"><img src="images/jaws_3.jpg" class="img-responsive"></a></div>
+					</div>
+					<div class="item">
+					  <div class="col-md-4"><a href="#"><img src="http://placehold.it/500/f4f4f4&amp;text=4" class="img-responsive"></a></div>
+					</div>
+					<div class="item">
+					  <div class="col-md-4"><a href="#"><img src="http://placehold.it/500/fcfcfc/333&amp;text=5" class="img-responsive"></a></div>
+					</div>
+					<div class="item">
+					  <div class="col-md-4"><a href="#"><img src="http://placehold.it/500/f477f4/fff&amp;text=6" class="img-responsive"></a></div>
+					</div>
+				  </div>
+				  <a class="left carousel-control" href="#myCarousel" data-slide="prev"><i class="glyphicon glyphicon-chevron-left"></i></a>
+				  <a class="right carousel-control" href="#myCarousel" data-slide="next"><i class="glyphicon glyphicon-chevron-right"></i></a>
+				</div>
+			</div>
+			<div id="movieDetails">
+				<div id="movieImage">
+					<img src="images/jaws_1.jpg">
+				</div>  
+				<div id="movieDetails1">
+					</br>
+					</br>
+					<p><b>Year:</b></p></br>
+					<p><b>Starring:</b></p></br>
+					<p><b>Producer(s):</b></p></br>
+					<p><b>Writer(s):</b></p></br>	
+				</div>
+				<div id="movieDetails2">
+					</br>
+					</br>
+					<p><b>Domestic Gross:</b></p></br>
+					<p><b>Foreign Gross:</b></p></br>
+					<p><b>Overall Box Office Gross:</b></p></br>
+					<p><b>Rating:</b></p></br>
+				</div>
+				<div id="movieDetails3">
+					<p>When a gigantic great white shark begins to menace the small island community of Amity, a police chief, a marine scientist and grizzled 
+					fisherman set out to stop it.</p>
+				</div>
+			</div>
+			<footer>
+				<div class="row-fluid">
+					<div class="span12">
+						<div id="footertext">
+							<p><b>Links:</b> 
+								<a href="http://www.imdb.com/name/nm0000229/"><span class="label label-info">IMDB</span></a> 
+								<a href="http://www.biography.com/people/steven-spielberg-9490621"><span class="label label-danger">Biography</span></a> 
+								<a href="http://en.wikipedia.org/wiki/Steven_Spielberg"><span class="label label-success">Wikipedia</span></a> 
+								<a href="http://www.dreamworksstudios.com/"><span class="label label-warning">Dreamworks SKG</span></a>
+								<b>| 2014 Web Development Project, Semester 1. All rights reserved.</b></p>	
+						</div>	
+					</div>
+				</div>
+			</footer>	
+		</div> 
+	</body>
+</html>

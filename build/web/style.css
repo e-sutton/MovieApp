@@ -1,0 +1,209 @@
+
+.container-fluid
+{
+	width: 80%;
+	margin-left: 10%;
+	margin-right: 10%;
+	background: #99CCFF;
+	background: -webkit-linear-gradient(#E0E0D1, #F5F5F0); /* For Safari */
+	background: -o-linear-gradient(#E0E0D1, #F5F5F0); /* For Opera 11.1 to 12.0*/
+	background: -moz-linear-gradient(#E0E0D1, #F5F5F0); /* For Firefox 3.6 to 15 */
+	background: linear-gradient(#E0E0D1, #F5F5F0); /* Standard syntax (must be last)*/
+	
+	/*background: -webkit-linear-gradient(#FFCC66, #FFFF99); /* For Safari 
+	background: -o-linear-gradient(#FFCC66, #FFFF99); /* For Opera 11.1 to 12.0 
+	background: -moz-linear-gradient(#FFCC66, #FFFF99); /* For Firefox 3.6 to 15 
+	background: linear-gradient(#FFCC66, #FFFF99); /* Standard syntax (must be last) */
+}
+
+.nav
+{
+	background: #30302F;
+	color: #ffffff;
+}
+
+.jumbotron
+{	
+	background: -webkit-linear-gradient(#4E5454, #929C9C); /* For Safari */
+	background: -o-linear-gradient(#4E5454, #929C9C); /* For Opera 11.1 to 12.0 */
+	background: -moz-linear-gradient(#4E5454, #929C9C); /* For Firefox 3.6 to 15 */
+	background: linear-gradient(#4E5454, #929C9C); /* Standard syntax (must be last) */
+	width: 100%;
+	height: 18em;
+	
+	/*background: -webkit-linear-gradient(#66FF66, #33CC33); /* For Safari */
+	/*background: -o-linear-gradient(#66FF66, #33CC33); /* For Opera 11.1 to 12.0 */
+	/*background: -moz-linear-gradient(#66FF66, #33CC33); /* For Firefox 3.6 to 15 */
+	/*background: linear-gradient(#66FF66, #33CC33); /* Standard syntax (must be last) */
+}
+
+#jt1
+{
+	height: 100%;
+	width: 32%;
+	float: left;
+}
+
+#jtImg
+{
+	width: 100%;
+	height: 100%;
+}
+
+#jumbotext1
+{
+	width: 36%;
+	height: 100%;
+	float: left;
+	font-size: 60px;
+}
+
+#jt2
+{
+	height: 100%;
+	width: 32%;
+	float: left;
+}
+
+.row
+{
+	height: 100px;
+	text-align: middle;
+	float: left;
+}
+
+#movieDetails
+{
+	width: 100%;
+	height: 500px;
+}
+
+#movieImage
+{
+	float: left;
+	width: 200px;
+        max-height: 300px;
+	margin-left: 1em;
+	margin-right: 1em;
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+#movieDetails1
+{
+	float: left;
+	width: 35%;
+	height: 6em;
+	
+}
+
+#movieDetails2
+{
+	float: right;
+	width: 35%;
+	height: 6em;
+	
+}
+
+#movieDetails3
+{
+	float: none;
+	width: 90%;
+	height: 6em;
+	margin-left: 4em;
+	margin-right: 1em;
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+
+.well 
+{
+	background: #FFFF00;	
+	float: left;
+ }
+
+
+#purchaseform
+{
+	width: 90%;
+	line-height:1.4em;
+}
+
+#formbtn
+{
+	float: right;
+}
+
+footer
+{
+	width: 100%;
+	background: #30302F;
+}
+
+#footertext
+{
+	color: #ffffff;
+        padding-left: 8em;
+        
+}
+
+h1
+{
+	font-size: 60px;
+	color: #ffffff;
+}
+
+#contactblurb
+{
+	padding-top: 2em;
+	padding-bottom: 2em;
+}
+
+#contactform
+{
+	width: 100%;
+	line-height:1.4em;	
+}
+
+#custcarepic
+{
+	padding-right: 4em;
+}
+
+#contactform
+{
+	padding-left: 4em;
+}
+
+#twitter
+{
+	padding-left:5em;
+	padding-right:5em;
+	padding-top: 2em;
+	padding-bottom: 1em;
+}
+
+/*.carousel-inner .active.left 
+{ left: -33%; }
+.carousel-inner .next        
+{ left:  33%; }
+.carousel-inner .prev        
+{ left: -33%; }
+.carousel-control.left,.carousel-control.right 
+{background-image:none;}*/
+
+.img-responsive{
+    width:10%;
+    float:left; 
+    height: 100%;
+}
+
+#imagesAll
+{
+    height: 12em;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    
+}
+#movieDetails3{
+    float:right;
+}

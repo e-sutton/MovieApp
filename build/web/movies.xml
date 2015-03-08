@@ -1,0 +1,245 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="template.xsl" type="text/xsl"?>
+<movies>
+		<director>Steven Spielberg</director>
+			<movie id="1">
+			<title>Jaws</title>
+			<year>1975</year>
+			<writer>Peter Benchley</writer>
+			<producers>
+				<producer id="1">David Brown</producer>
+				<producer id="2">Richard D. Zanuck</producer>
+			</producers>
+			<actors>
+				<actor id="1">Roy Scheider</actor>
+				<actor id="2">Robert Shaw</actor>
+				<actor id="3">Richard Dreyfuss</actor>
+			</actors>
+			<plot>
+				When a gigantic great white shark begins to menace the small island community of Amity, a police chief, a marine scientist and grizzled fisherman set out to stop it.
+			</plot>
+			<image></image>
+			<rating></rating>
+			<review></review>
+                        <wWGross>470653000</wWGross>
+                        <domGross>260000000</domGross>
+                        <forGross>210653000</forGross>
+			<relatedcontent></relatedcontent>
+		</movie>
+		<movie id="2">
+			<title>Close Encounters Of The Third Kind</title>
+			<year>1977</year>
+			<writer>Steven Spielberg</writer>
+			<producers>
+				<producer id="1">Julia Philips</producer>
+				<producer id="2">Michael Philips</producer>
+			</producers>
+			<actors>
+				<actor id="1">Richard Dreyfuss</actor>
+				<actor id="2">François Truffaut</actor>
+				<actor id="3">Teri Garr</actor>
+			</actors>
+			<plot>
+				After an encounter with U.F.O.s, a line worker feels undeniably drawn to an isolated area in the wilderness where something spectacular is about to happen.
+			</plot>
+			<image></image>
+			<rating></rating>
+			<review></review>
+                        <wWGross>303788635</wWGross>
+                        <domGross>132088635</domGross>
+                        <forGross>171700000</forGross>
+			<relatedcontent></relatedcontent>
+		</movie>
+		<movie id="3">
+			<title>Raiders Of The Lost Ark</title>
+			<year>1981</year>
+			<writer>Lawrence Kasdan</writer>
+			<producers>
+				<producer id="1">George Lucas</producer>
+				<producer id="2">Frank Marshall</producer>
+			</producers>
+			<actors>
+				<actor id="1">Harrison Ford</actor>
+				<actor id="2">Karen Allen</actor>
+				<actor id="3">Paul Freeman</actor>
+			</actors>
+			<plot>
+				Archeologist and adventurer Indiana Jones is hired by the US government to find the Ark of the Covenant before the Nazis.
+			</plot>
+			<image></image>
+			<rating></rating>
+			<review></review>
+                        <wWGross>389925971</wWGross>
+                        <domGross>248159971</domGross>
+                        <forGross>141766000</forGross>	
+			<relatedcontent></relatedcontent>
+		</movie>
+		<movie id="4">
+			<title>E.T. The Extra-Terrestrial</title>
+			<year>1982</year>
+			<writer>Melissa Mathison</writer>
+			<producers>
+				<producer id="1">Kathleen Kennedy</producer>
+				<producer id="2">Steven Spielberg</producer>
+			</producers>
+			<actors>
+				<actor id="1">Dee Wallace</actor>
+				<actor id="2">Henry Thomas</actor>
+				<actor id="3">Peter Coyote</actor>
+			</actors>
+			<plot>
+				A troubled child summons the courage to help a friendly alien escape Earth and return to his home-world.
+			</plot>
+			<image></image>
+			<rating></rating>
+			<review></review>
+                        <wWGross>792910554</wWGross>
+                        <domGross>435110554</domGross>
+                        <forGross>357800000</forGross>
+			<relatedcontent></relatedcontent>
+		</movie>
+		<movie id="5">
+			<title>Indiana Jones and the Temple of Doom</title>
+			<year>1984</year>
+			<writer>Willard Huyck</writer>
+			<producers>
+				<producer id="1">Kathleen Kennedy</producer>
+				<producer id="2">George Lucas</producer>
+			</producers>
+			<actors>
+				<actor id="1">Harrison Ford</actor>
+				<actor id="2">Kate Capshaw</actor>
+				<actor id="3">Jonathan Ke Quan</actor>
+			</actors>
+			<plot>
+				After arriving in India, Indiana Jones is asked by a desperate village to find a mystical stone. He agrees, and stumbles upon a secret cult plotting a terrible plan in the catacombs of an ancient palace.
+			</plot>
+			<image></image>
+			<rating></rating>
+			<review></review>
+                        <wWGross>333107271</wWGross>
+                        <domGross>179870271</domGross>
+                        <forGross>153237000</forGross>
+			<relatedcontent></relatedcontent>
+		</movie>
+		<movie id="6">
+			<title>The Color Purple</title>
+			<year>1985</year>
+			<writer>Alice Walker</writer>
+			<producers>
+				<producer id="1">Kathleen Kennedy</producer>
+				<producer id="2">Frank Marshall</producer>
+			</producers>
+			<actors>
+				<actor id="1">Danny Glover</actor>
+				<actor id="2">Whoopi Goldberg</actor>
+				<actor id="3">Oprah Winfrey</actor>
+			</actors>
+			<plot>
+				The life and trials of a young African American woman.
+			</plot>
+			<image></image>
+			<rating></rating>
+			<review></review>
+                        <wWGross>98467863</wWGross>
+                        <domGross>98467863</domGross>
+                        <forGross>0</forGross>
+			<relatedcontent></relatedcontent>
+		</movie>
+		<movie id="7">
+			<title>Empire of the Sun</title>
+			<year>1987</year>
+			<writer>J.G. Ballard</writer>
+			<producers>
+				<producer id="1">Kathleen Kennedy</producer>
+				<producer id="2">Frank Marshall</producer>
+			</producers>
+			<actors>
+				<actor id="1">Christian Bale</actor>
+				<actor id="2">John Malkovich</actor>
+				<actor id="3">Miranda Richardson</actor>
+			</actors>
+			<plot>
+				A young English boy struggles to survive under Japanese occupation during World War II.
+			</plot>
+			<image></image>
+			<rating></rating>
+			<review></review>
+                        <wWGross>22238696</wWGross>
+                        <domGross>22238696</domGross>
+                        <forGross>0</forGross>
+			<relatedcontent></relatedcontent>
+		</movie>
+		<movie id="8">
+			<title>Indiana Jones and the Last Crusade</title>
+			<year>1989</year>
+			<writer>Jeffrey Boam</writer>
+			<producers>
+				<producer id="1">George Lucas</producer>
+				<producer id="2">Frank Marshall</producer>
+			</producers>
+			<actors>
+				<actor id="1">Harrison Ford</actor>
+				<actor id="2">Sean Connery</actor>
+				<actor id="3">Denholm Elliott</actor>
+			</actors>
+			<plot>
+				When Dr. Henry Jones Sr. suddenly goes missing while pursuing the Holy Grail, eminent archaeologist Indiana Jones must follow in his father's footsteps and stop the Nazis.
+			</plot>
+			<image></image>
+			<rating></rating>
+			<review></review>
+                        <wWGross>474171806</wWGross>
+                        <domGross>197171806</domGross>
+                        <forGross>277000000</forGross>
+			<relatedcontent></relatedcontent>
+		</movie>
+		<movie id="9">
+			<title>Hook</title>
+			<year>1991</year>
+			<writer>J.M. Barrie</writer>
+			<producers>
+				<producer id="1">Kathleen Kennedy</producer>
+				<producer id="2">Frank Marshall</producer>
+			</producers>
+			<actors>
+				<actor id="1">Dustin Hoffman</actor>
+				<actor id="2">Robin Williams</actor>
+				<actor id="3">Julia Roberts</actor>
+			</actors>
+			<plot>
+				When Captain Hook kidnaps his children, an adult Peter Pan must return to Neverland and reclaim his youthful spirit in order to challenge his old enemy.
+			</plot>
+			<image></image>
+			<rating></rating>
+			<review></review>
+                        <wWGross>300854823</wWGross>
+                        <domGross>119654823</domGross>
+                        <forGross>181200000</forGross>
+			<relatedcontent></relatedcontent>
+		</movie>
+		<movie id="10">
+			<title>Jurassic Park</title>
+			<year>1993</year>
+			<writer>Michael Crichton</writer>
+			<producers>
+				<producer id="1">Kathleen Kennedy</producer>
+				<producer id="2">Gerald R. Molen</producer>
+			</producers>
+			<actors>
+				<actor id="1">Sam Neill</actor>
+				<actor id="2">Sam Neill</actor>
+				<actor id="3">Jeff Goldblum</actor>
+			</actors>
+			<plot>
+				During a preview tour, a theme park suffers a major power breakdown that allows its cloned dinosaur exhibits to run amok.
+			</plot>
+			<image>jurassicPark.jpg</image>
+			<rating></rating>
+			<review></review>
+                        <wWGross>1029153882</wWGross>
+                        <domGross>402453882</domGross>
+                        <forGross>626700000</forGross>
+			<relatedcontent></relatedcontent>
+		</movie>
+</movies>
